@@ -65,9 +65,6 @@ h4 {
 #form-surname, #form-name {
     width: 300px;
 }
-#form-password {
-    padding-bottom: 30px;
-}
 .fieldset-wrapper {
     display: flex;
     flex-direction: column;
